@@ -1,7 +1,7 @@
 body{
    text-align: center;
 }
-.btn{
+.ncyu{
   border: solid 3pxb lack;
   width: 100px;
   height: 100px;
@@ -11,6 +11,6 @@ body{
   background-color: #9fffff;
 }
 hl{
-  font-size: 90px
+  font-size: 90px;
   font-family: 標楷體;
 }
